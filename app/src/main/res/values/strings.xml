@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Service_Notification</string>
+    <string name="string_null"></string>
 </resources>
